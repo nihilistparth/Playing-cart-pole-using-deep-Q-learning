@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="assets/cartpole_icon_web.png" width="300">
+  <img src="cartpole.png" width="300">
 </h3>
 
 # Cartpole
